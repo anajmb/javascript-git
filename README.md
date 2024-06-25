@@ -1,1 +1,3 @@
-# javascript-git
+# javascript-git 
+
+Curso de front-end - JavaScript
