@@ -6,12 +6,13 @@ let valorProduto = 5.35;
 
 //variavel de texto, String 
 let nomeAluno = "Pedro Henrique";
-
 //Booleano
 let casado = true;
 
 //Array -> conjunto de elementos 
 let linguagens = ["Java", "C#", "Python"];
+
+    
 
 console.log("Idade do aluno: " + idadeAluno);
 console.log("R$ " + valorProduto);
